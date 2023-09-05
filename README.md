@@ -15,13 +15,16 @@ The solar tracker utilizes two LDR sensors positioned at opposite ends of the pa
 The error obtained is fed into the PID control circuit. The PID control circuit acts as a feedback system that will adjust the panel’s orientation depending on the error calculated. It comprises of 3 operational amplifiers configured to perform proportional, integral and derivative operations.
 
   1. **Propotional** - The proportional part employs an inverting op-amp configuration with variable resistors to achieve the necessary gain for the error signal.
+     
       ![st_p](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/f0baaf98-5446-493b-8d4b-37a3165a5f26)
 
-  2. **Integral** - The integral part diminishes steady-state error by accumulating the error over time through an op-amp integrator with variable resistors. 
+  2. **Integral** - The integral part diminishes steady-state error by accumulating the error over time through an op-amp integrator with variable resistors.
+     
      ![st_i](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/b3f0779f-6d30-40f3-af8b-a422b8cf9453)
 
   3. **Derivative** - The derivative component generates an output signal in proportion to the error's rate of change, effectively reducing overshoot and providing a smoother control signal. This is accomplished through an op-amp differentiator circuit with adjustable resistors.
-    ![st_d](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/63253f59-4c65-4f29-8c04-fc1a5d2af5bb)
+     
+     ![st_d](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/63253f59-4c65-4f29-8c04-fc1a5d2af5bb)
 
 ### Triangular Waveform Generation
 
@@ -41,7 +44,6 @@ The PID circuit output is compared with a triangular wave using two comparators 
 
 ## Our Prototype
 
-![20230227_134705](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/aa5fdcf8-325e-47fd-9c60-516136f312ea)
-
+![20230227_134705](https://github.com/Nuthya27/Automatic_Solar_Tracker/assets/111232856/858cf0ef-411c-4a11-852d-cc1a49b5a3b5)
 
 
