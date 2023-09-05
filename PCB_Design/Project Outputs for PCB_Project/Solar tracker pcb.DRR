@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Solar tracker pcb.PcbDoc   2/13/2023  2:05:41 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solar tracker pcb.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             2         PTH        2.00inch (50.70mm)
+T2      28mil (0.701mm)                                           Round             24        PTH        14.44inch (366.87mm)
+T3      28mil (0.711mm)                                           Round             128       PTH        46.72inch (1186.75mm)
+T4      32mil (0.8mm)                                             Round             16        PTH        2.30inch (58.42mm)
+T5      35mil (0.899mm)                                           Round             70        PTH        15.90inch (403.90mm)
+T6      39mil (1.001mm)                                           Round             22        PTH        14.96inch (379.89mm)
+T7      40mil (1.021mm)                                           Round             8         PTH        1.68inch (42.68mm)
+T8      59mil (1.501mm)                                           Round             4         PTH        13.85inch (351.79mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              274
+
+Total Processing Time (hh:mm:ss) : 00:00:00

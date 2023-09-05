@@ -1,0 +1,300 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\USER\Desktop\Solar Tracker\PCB_Project\Solar tracker pcb.PcbDoc
+Date     : 2/11/2023
+Time     : 8:27:17 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1mm) (Preferred=1mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=2mm) (Max=2.5mm) (All)
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C10-1(87.757mm,57.972mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C10-2(87.757mm,65.472mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C1-1(107.823mm,84.141mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C11-1(42.919mm,47.752mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C11-2(50.419mm,47.752mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C1-2(107.823mm,76.641mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C2-1(87.884mm,76.641mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C2-2(87.884mm,84.141mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C3-1(72.838mm,80.518mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C3-2(65.338mm,80.518mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C4-1(77.597mm,116.907mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C4-2(77.597mm,109.407mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C5-1(91.246mm,97.917mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C5-2(98.746mm,97.917mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C6-1(108.451mm,112.141mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C6-2(115.951mm,112.141mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C7-1(124.393mm,82.804mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C7-2(131.893mm,82.804mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C8-1(146.879mm,54.483mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C8-2(139.379mm,54.483mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C9-1(114.621mm,61.087mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1mm < 2mm) Pad C9-2(107.121mm,61.087mm) on Multi-Layer Actual Hole Size = 1mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J1-1(34.544mm,119.253mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J2-1(34.417mm,113.792mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J3-1(34.417mm,108.712mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J4-1(34.163mm,103.251mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J5-1(34.036mm,96.647mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J6-1(34.036mm,90.678mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J7-1(34.163mm,82.042mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (1.02mm < 2mm) Pad J8-1(34.163mm,76.581mm) on Multi-Layer Actual Hole Size = 1.02mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R10-1(39.249mm,88.9mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R10-2(51.429mm,88.9mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R1-1(51.683mm,119.38mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R11-1(149.358mm,69.342mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R11-2(161.538mm,69.342mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R1-2(39.503mm,119.38mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R12-1(161.411mm,75.565mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R12-2(149.231mm,75.565mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R2-1(51.81mm,113.792mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R2-2(39.63mm,113.792mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R3-1(51.81mm,108.204mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R3-2(39.63mm,108.204mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R4-1(39.249mm,101.473mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R4-2(51.429mm,101.473mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R5-1(51.435mm,95.25mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R5-2(39.255mm,95.25mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R6-1(55.251mm,100.457mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R6-2(67.431mm,100.457mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R7-1(55.372mm,92.964mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R7-2(67.552mm,92.964mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R8-1(121.158mm,69.469mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R8-2(133.338mm,69.469mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R9-1(106.432mm,97.282mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.7mm < 2mm) Pad R9-2(118.612mm,97.282mm) on Multi-Layer Actual Hole Size = 0.7mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-1(57.912mm,117.475mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-2(57.912mm,114.935mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-3(57.912mm,112.395mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-4(57.912mm,109.855mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-5(65.532mm,109.855mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-6(65.532mm,112.395mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-7(65.532mm,114.935mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U1-8(65.532mm,117.475mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-1(98.425mm,110.109mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-2(98.425mm,112.649mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-3(98.425mm,115.189mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-4(98.425mm,117.729mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-5(90.805mm,117.729mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-6(90.805mm,115.189mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-7(90.805mm,112.649mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U2-8(90.805mm,110.109mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-1(131.826mm,110.236mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-2(131.826mm,112.776mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-3(131.826mm,115.316mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-4(131.826mm,117.856mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-5(124.206mm,117.856mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-6(124.206mm,115.316mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-7(124.206mm,112.776mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U3-8(124.206mm,110.236mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-1(131.953mm,95.758mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-2(131.953mm,98.298mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-3(131.953mm,100.838mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-4(131.953mm,103.378mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-5(124.333mm,103.378mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-6(124.333mm,100.838mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-7(124.333mm,98.298mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U4-8(124.333mm,95.758mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-1(137.668mm,73.66mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-2(137.668mm,71.12mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-3(137.668mm,68.58mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-4(137.668mm,66.04mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-5(145.288mm,66.04mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-6(145.288mm,68.58mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-7(145.288mm,71.12mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U5-8(145.288mm,73.66mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-1(122.555mm,59.817mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-2(122.555mm,57.277mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-3(122.555mm,54.737mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-4(122.555mm,52.197mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-5(130.175mm,52.197mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-6(130.175mm,54.737mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-7(130.175mm,57.277mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U6-8(130.175mm,59.817mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-1(73.406mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-2(70.866mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-3(68.326mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-4(65.786mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-5(65.786mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-6(68.326mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-7(70.866mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U7-8(73.406mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-1(40.894mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-10(51.054mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-11(48.514mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-12(45.974mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-13(43.434mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-14(40.894mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-2(43.434mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-3(45.974mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-4(48.514mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-5(51.054mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-6(53.594mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-7(56.134mm,59.309mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-8(56.134mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.9mm < 2mm) Pad U8-9(53.594mm,66.929mm) on Multi-Layer Actual Hole Size = 0.9mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-1(57.404mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-10(42.164mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-11(44.704mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-12(47.244mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-13(49.784mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-14(52.324mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-15(54.864mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-16(57.404mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-2(54.864mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-3(52.324mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-4(49.784mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-5(47.244mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-6(44.704mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-7(42.164mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-8(39.624mm,82.042mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.8mm < 2mm) Pad U9-9(39.624mm,74.422mm) on Multi-Layer Actual Hole Size = 0.8mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR10-1(100.711mm,48.387mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR10-2(98.171mm,48.387mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR10-3(95.631mm,48.387mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR1-1(140.589mm,116.713mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR11-1(85.09mm,48.006mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR11-2(82.55mm,48.006mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR11-3(80.01mm,48.006mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR1-2(140.589mm,114.173mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR12-1(69.596mm,48.133mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR12-2(67.056mm,48.133mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR12-3(64.516mm,48.133mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR1-3(140.589mm,111.633mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR13-1(158.75mm,56.642mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR13-2(158.75mm,59.182mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR13-3(158.75mm,61.722mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR14-1(77.216mm,98.425mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR14-2(77.216mm,95.885mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR14-3(77.216mm,93.345mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR2-1(149.606mm,116.459mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR2-2(149.606mm,113.919mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR2-3(149.606mm,111.379mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR3-1(149.479mm,97.917mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR3-2(149.479mm,100.457mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR3-3(149.479mm,102.997mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR4-1(142.748mm,83.693mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR4-2(142.748mm,86.233mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR4-3(142.748mm,88.773mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR5-1(158.877mm,102.87mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR5-2(158.877mm,100.33mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR5-3(158.877mm,97.79mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR6-1(158.75mm,116.459mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR6-2(158.75mm,113.919mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR6-3(158.75mm,111.379mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR8-1(151.257mm,83.693mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR8-2(151.257mm,86.233mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR8-3(151.257mm,88.773mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR9-1(159.385mm,83.82mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR9-2(159.385mm,86.36mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.71mm < 2mm) Pad VR9-3(159.385mm,88.9mm) on Multi-Layer Actual Hole Size = 0.71mm
+   Violation between Hole Size Constraint: (0.711mm < 2mm) Via (148.92mm,94.894mm) from Top Layer to Bottom Layer Actual Hole Size = 0.711mm
+   Violation between Hole Size Constraint: (0.711mm < 2mm) Via (99.543mm,55.728mm) from Top Layer to Bottom Layer Actual Hole Size = 0.711mm
+Rule Violations :181
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.056mm < 0.254mm) Between Pad U5-4(137.668mm,66.04mm) on Multi-Layer And Text "C8" (134.925mm,63.703mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.056mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad U8-1(40.894mm,59.309mm) on Multi-Layer And Text "C11" (38.481mm,56.972mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Arc (94.996mm,97.917mm) on Top Overlay And Text "C1" (99.619mm,89.611mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.01mm < 0.254mm) Between Text "C2" (79.68mm,89.611mm) on Top Overlay And Track (74.806mm,91.12mm)(79.636mm,91.12mm) on Top Overlay Silk Text to Silk Clearance [0.01mm]
+   Violation between Silk To Silk Clearance Constraint: (0.01mm < 0.254mm) Between Text "C2" (79.68mm,89.611mm) on Top Overlay And Track (79.636mm,91.12mm)(79.636mm,100.65mm) on Top Overlay Silk Text to Silk Clearance [0.01mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C3" (60.884mm,89.738mm) on Top Overlay And Track (56.912mm,91.414mm)(66.012mm,91.414mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.089mm < 0.254mm) Between Text "J2" (32.944mm,116.078mm) on Top Overlay And Track (33.019mm,117.918mm)(36.069mm,117.918mm) on Top Overlay Silk Text to Silk Clearance [0.089mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J3" (32.944mm,110.998mm) on Top Overlay And Track (32.892mm,112.457mm)(35.942mm,112.457mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.213mm < 0.254mm) Between Text "J4" (32.69mm,105.537mm) on Top Overlay And Track (32.892mm,107.377mm)(32.892mm,110.047mm) on Top Overlay Silk Text to Silk Clearance [0.213mm]
+   Violation between Silk To Silk Clearance Constraint: (0.089mm < 0.254mm) Between Text "J4" (32.69mm,105.537mm) on Top Overlay And Track (32.892mm,107.377mm)(35.942mm,107.377mm) on Top Overlay Silk Text to Silk Clearance [0.089mm]
+   Violation between Silk To Silk Clearance Constraint: (0.089mm < 0.254mm) Between Text "J8" (32.69mm,78.867mm) on Top Overlay And Track (32.638mm,80.707mm)(35.688mm,80.707mm) on Top Overlay Silk Text to Silk Clearance [0.089mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R2" (39.091mm,116.307mm) on Top Overlay And Track (41.043mm,117.83mm)(41.043mm,120.93mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R2" (39.091mm,116.307mm) on Top Overlay And Track (41.043mm,117.83mm)(50.143mm,117.83mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R3" (39.091mm,110.719mm) on Top Overlay And Track (41.17mm,112.242mm)(41.17mm,115.342mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R3" (39.091mm,110.719mm) on Top Overlay And Track (41.17mm,112.242mm)(50.27mm,112.242mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :13
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)'))
+   Violation between Room Definition: Between DIP Component U1-TL072CP (61.722mm,113.665mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U2-UA741CP (94.615mm,113.919mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U3-TL072CP (128.016mm,114.046mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U4-TL072CP (128.143mm,99.568mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U5-TL072CP (141.478mm,69.85mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U6-UA741CP (126.365mm,56.007mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U7-UA741CP (69.596mm,63.119mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U8-LM339N/NOPB (48.514mm,63.119mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between DIP Component U9-L293D (48.514mm,78.232mm) on Top Layer And Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C10-EEUEE2G470 (87.757mm,61.722mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C11-EEUEE2G470 (46.669mm,47.752mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C1-EEUEE2G470 (107.823mm,80.391mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C2-EEUEE2G470 (87.884mm,80.391mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C3-EEUEE2G470 (69.088mm,80.518mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C4-EEUEE2G470 (77.597mm,113.157mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C5-EEUEE2G470 (94.996mm,97.917mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C6-EEUEE2G470 (112.201mm,112.141mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C7-EEUEE2G470 (128.143mm,82.804mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C8-EEUEE2G470 (143.129mm,54.483mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component C9-EEUEE2G470 (110.871mm,61.087mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J1-PBC01SAAN (34.544mm,119.253mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J2-PBC01SAAN (34.417mm,113.792mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J3-PBC01SAAN (34.417mm,108.712mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J4-PBC01SAAN (34.163mm,103.251mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J5-PBC01SAAN (34.036mm,96.647mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J6-PBC01SAAN (34.036mm,90.678mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J7-PBC01SAAN (34.163mm,82.042mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component J8-PBC01SAAN (34.163mm,76.581mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R10-CFR50J2K2 (45.339mm,88.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R11-CFR50J2K2 (155.448mm,69.342mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R12-CFR50J2K2 (155.321mm,75.565mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R1-CFR50J2K2 (45.593mm,119.38mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R2-CFR50J2K2 (45.72mm,113.792mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R3-CFR50J2K2 (45.72mm,108.204mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R4-CFR50J2K2 (45.339mm,101.473mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R5-CFR50J2K2 (45.345mm,95.25mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R6-CFR50J2K2 (61.341mm,100.457mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R7-CFR50J2K2 (61.462mm,92.964mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R8-CFR50J2K2 (127.248mm,69.469mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component R9-CFR50J2K2 (112.522mm,97.282mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR10-3296W-1-250 (98.171mm,48.387mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR11-3296W-1-250 (82.55mm,48.006mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR12-3296W-1-250 (67.056mm,48.133mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR1-3296W-1-250 (140.589mm,114.173mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR13-3296W-1-250 (158.75mm,59.182mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR14-3296W-1-250 (77.216mm,95.885mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR2-3296W-1-250 (149.606mm,113.919mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR3-3296W-1-250 (149.479mm,100.457mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR4-3296W-1-250 (142.748mm,86.233mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR5-3296W-1-250 (158.877mm,100.33mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR6-3296W-1-250 (158.75mm,113.919mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR8-3296W-1-250 (151.257mm,86.233mm) on Top Layer 
+   Violation between Room Definition: Between Room Solar Tracker 2.0 (1) (Bounding Region = (178.054mm, 29.718mm, 661.416mm, 53.213mm) (InComponentClass('Solar Tracker 2.0 (1)')) And Small Component VR9-3296W-1-250 (159.385mm,86.36mm) on Top Layer 
+Rule Violations :53
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 249
+Waived Violations : 0
+Time Elapsed        : 00:00:02
